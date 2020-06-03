@@ -1,9 +1,13 @@
-
+<!DOCTYPE html>
 <html>
 <head>
-<title>HTMLの練習</title>
+<title>Webページの練習</title>
 </head>
 <body>
-初めて<dr>のWebページです。
+<h1>第一章 入門編</h1>
+<h2>1.1 ブラウザとは</h2>
+<p>ブラウザとは本をパラパラ・・・</p>
+<h2>1.2 HTMLとは</h2>
+<p>HTML とは HyperText Markup Language の略で・・・</p>
 </body>
 </html>
